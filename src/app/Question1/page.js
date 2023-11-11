@@ -28,7 +28,7 @@ export default function Home() {
 
       <div className={styles.description}>
         <p>
-          Opperationally there was a large gap in knowledge for everyone on the team, resulting in long SLA on customer tickets. I suggested we hold daily team lunch and learns where we can teach each other processes that we uncovered. We ended up created a large repository of how to articles instead. This added a huge lift from weeks to complete a ticket into just hours. The how to guides listed the author so we were able to reach out to subject matter expert and inquire further if needed. 
+          Opperationally there was a large gap in knowledge for everyone on the team, resulting in long SLA on customer tickets. I suggested we hold daily team lunch and learns where we can teach each other processes that we uncovered. We ended up created a large repository of how to articles instead. This added a huge lift to our SLAs from weeks to complete a ticket into just hours. The how to guides listed the author so we were able to reach out to subject matter expert and inquire further if needed. 
         </p>
       
         

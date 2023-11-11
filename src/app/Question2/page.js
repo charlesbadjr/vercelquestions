@@ -28,7 +28,7 @@ export default function Home() {
 
       <div className={styles.description}>
         <p>
-          I dont have a lot of experience with different frameworks. I have used express and jQuery. So far Next.js is more user friendly, seemingly holding your hand through the process. The documentation is nice as well. It's not skipping important parts of the process that often go over looked. 
+          I dont have a lot of experience with different frameworks. I have used express and jQuery. So far Next.js is more user friendly, seemingly holding your hand through the process. The documentation is nice as well. It&apos;s not skipping important parts of the process that often go over looked. 
         </p>
       
         

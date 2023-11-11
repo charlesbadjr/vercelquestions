@@ -9,7 +9,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
         Imagine that the customer from Question 4 responds with the following email. 
-“I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so why don't you just fix it for me instead of asking me questions.”
+“I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.”
 
 
                  </p>
@@ -33,7 +33,7 @@ export default function Home() {
         <p>
           <a> Hi Customer,</a>
 
-          I'm sorry this isn't working well for you. I've checked in with some coworkers and I don't believe this function is broken rigt now. Perhaps we can meet together and go over your code to determine the best way to get it running again. If you can tell me when you're open to meeting I can send you a zoom link. 
+          I&apos;m sorry this isn&apos;t working well for you. I&apos;ve checked in with some coworkers and I don&apos;t believe this function is broken rigt now. Perhaps we can meet together and go over your code to determine the best way to get it running again. If you can tell me when you&apos;re open to meeting I can send you a zoom link. 
 
           <a> Regards,</a>
         </p>

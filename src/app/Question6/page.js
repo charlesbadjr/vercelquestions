@@ -8,7 +8,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-        A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you’d like to share about your decision making process.
+        A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you&apos;d like to share about your decision making process.
         </p>
       
         
@@ -46,7 +46,7 @@ export default function Home() {
        target="_blank"
        rel="noopener noreferrer"
        > <h4> 
-        You can also use the no index meta tag. I didn't see anything about it on NextJs website but I have a link to add meta tags.
+        You can also use the no index meta tag. I didn&apos;t see anything about it on NextJs website but I have a link to add meta tags.
         </h4>
       </a>
       </p>

@@ -28,7 +28,7 @@ export default function Home() {
 
       <div className={styles.description}>
         <p>
-          Writting emails in code is a bit odd looking.  I'm going to go back and change that. but the familiarization process is fine. 10 out of 10.
+          Writting emails in code is a bit odd looking.  I&apos;m going to go back and change that. but the familiarization process is fine. 10 out of 10.
         </p>
       
         

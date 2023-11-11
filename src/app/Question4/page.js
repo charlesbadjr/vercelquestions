@@ -8,7 +8,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-        A customer has a project on Vercel and they want to redirect the /blog path to another website. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you’d like to share about your decision making process.        </p>
+        A customer has a project on Vercel and they want to redirect the /blog path to another website. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you&apos;d like to share about your decision making process.        </p>
       
         
       </div>
@@ -31,13 +31,13 @@ export default function Home() {
 
            You can redirect outside of your app by using the following code: 
            <ul>
-            <li>href="website address" </li>
-            <li>className= only needed for styling </li>
+            <li> href="website address" </li>
+            <li> className= only needed for styling </li>
             <li> target="_blank"  - add this to open in another window </li>
             <li> rel="noopener noreferrer" - this line will help with security </li>
            </ul>
            <a>
-            This will go in place of the current Link tag you may have already set. If I've misunderstood your question or you're seeing errors let me know and we can troubleshoot this further. 
+            This will go in place of the current Link tag you may have already set. If I&apos;ve misunderstood your question or you&apos;re seeing errors let me know and we can troubleshoot this further. 
          </a>
          
       
