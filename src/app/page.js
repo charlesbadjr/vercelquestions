@@ -8,13 +8,13 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Get started by clicking below
-          <code className={styles.code}>src/app/page.js</code>
+          
         </p>
         
-        <div className={styles.grid}>
+        <div>
         
         <h2>
-           <Link href="/Question1"> Next Question </Link>
+           <Link href="/Question1"> Begin!  </Link>
         </h2>
        
     
