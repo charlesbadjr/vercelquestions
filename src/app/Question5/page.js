@@ -9,7 +9,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
         Imagine that the customer from Question 4 responds with the following email. 
-“I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.”
+        &quot;I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.&quot;
 
 
                  </p>

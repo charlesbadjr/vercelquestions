@@ -31,10 +31,10 @@ export default function Home() {
 
            You can redirect outside of your app by using the following code: 
            <ul>
-            <li> href="website address" </li>
+            <li> href=&quot;website address&quot; </li>
             <li> className= only needed for styling </li>
-            <li> target="_blank"  - add this to open in another window </li>
-            <li> rel="noopener noreferrer" - this line will help with security </li>
+            <li> target=&quot;_blank&quot;  - add this to open in another window </li>
+            <li> rel=&quot;noopener noreferrer&quot; - this line will help with security </li>
            </ul>
            <a>
             This will go in place of the current Link tag you may have already set. If I&apos;ve misunderstood your question or you&apos;re seeing errors let me know and we can troubleshoot this further. 
